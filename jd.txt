@@ -1,0 +1,30 @@
+Software Engineer AI ML Python Developer
+
+Looking for a Software Engineer with skills in Python programming, machine learning, computer vision, and natural language processing.
+
+Skills Required:
+Python programming language
+OpenCV computer vision library
+MediaPipe hand tracking gesture recognition
+Natural Language Processing NLP text analysis
+Scikit-Learn machine learning library
+Cosine Similarity TF-IDF algorithms
+SQL database management queries
+Object Oriented Programming OOP concepts
+Git version control GitHub repository
+DBMS database management systems
+SDLC software development life cycle
+Agile methodology sprint planning
+Team leadership project management
+Problem solving analytical thinking
+VS Code Google Colab development tools
+
+Experience:
+Computer vision projects
+NLP text processing projects
+AI machine learning applications
+Team lead experience
+Python development experience
+Real time application development
+Gesture recognition systems
+Resume screening automation
